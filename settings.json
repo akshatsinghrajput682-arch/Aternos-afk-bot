@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "waguriismp.aternos.me", 
-    "port": 58031,   
-    "version": "1.12.1"   
+    "ip": "BoardsKi.aternos.me:13345", 
+    "port": 13345,   
+    "version": "1.21.1"   
   },
   
   "position": {
